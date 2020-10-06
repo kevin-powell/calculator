@@ -4,8 +4,8 @@ A calculator built with HTML, CSS &amp; JS - Created by Kevin &amp; Zell during 
 ## Watch the replays
 
 - [HTML & CSS](https://youtu.be/EuwzyB_FQNs)
-- [JS (Happy Path)](https://youtu.be/f0SG2j6d-Kg) (coming soon)
-- [Testing with Vanilla JS]() (coming soon)
+- [JS (Happy Path)](https://youtu.be/f0SG2j6d-Kg)
+- [Testing with Vanilla JS](https://youtu.be/G_z39jRHu2M) 
 
 ## Source code
 
